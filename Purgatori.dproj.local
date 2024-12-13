@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/27 19:02:26.000.172,C:\Users\i7\Desktop\Purgatori\Main.pas=C:\Users\i7\Desktop\Purgatori\Game.pas</Transaction>
+    <Transaction>2023/12/27 19:24:52.000.919,=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+    <Transaction>2023/12/27 19:24:57.000.897,C:\Users\i7\Desktop\Purgatori\Unit1.pas=C:\Users\i7\Desktop\Purgatori\Player.pas</Transaction>
+    <Transaction>2023/12/28 18:14:30.000.457,=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+    <Transaction>2023/12/28 18:14:37.000.371,C:\Users\i7\Desktop\Purgatori\Unit1.pas=C:\Users\i7\Desktop\Purgatori\Gun.pas</Transaction>
+    <Transaction>2023/12/28 19:19:55.000.421,=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+    <Transaction>2023/12/28 19:19:59.000.431,C:\Users\i7\Desktop\Purgatori\Cursor.pas=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+    <Transaction>2023/12/29 18:32:45.000.539,=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+    <Transaction>2023/12/29 18:33:01.000.717,C:\Users\i7\Desktop\Purgatori\Unit1.pas=C:\Users\i7\Desktop\Purgatori\Bullet.pas</Transaction>
+    <Transaction>2023/12/30 14:08:22.000.197,=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+    <Transaction>2023/12/30 14:08:29.000.146,C:\Users\i7\Desktop\Purgatori\Background.pas=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+    <Transaction>2024/01/02 17:46:36.000.617,=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+    <Transaction>2024/01/02 17:46:48.000.777,C:\Users\i7\Desktop\Purgatori\Ghost.pas=C:\Users\i7\Desktop\Purgatori\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="raylib"/>
+    <File Path="raylib\raylib.pas"/>
+    <File Path="raylib\raymath.pas"/>
+    <File Path="raylib\rlgl.pas"/>
+    <File Path="Game.pas"/>
+    <File Path="Player.pas"/>
+    <File Path="Gun.pas"/>
+    <File Path="Cursor.pas"/>
+    <File Path="Bullet.pas"/>
+    <File Path="Background.pas"/>
+    <File Path="Ghost.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

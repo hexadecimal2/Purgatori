@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1469148152"/>
+  <Params Value=" -MDelphi -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiC:\Users\i7\Desktop\Purgatori\lib\i386-win32 -FuC:\Users\i7\Desktop\Purgatori\raylib -FuC:\Users\i7\Desktop\Purgatori\ -FUC:\Users\i7\Desktop\Purgatori\lib\i386-win32\ -FEC:\Users\i7\Desktop\Purgatori\bin\ -oC:\Users\i7\Desktop\Purgatori\bin\Purgatori.exe Purgatori.lpr"/>
+</CONFIG>
